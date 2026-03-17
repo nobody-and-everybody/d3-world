@@ -1,5 +1,5 @@
 # D3 World
-An implementation of the [web-wide-world](https://github.com/nobody-and-everybody/web-wide-world) idea.
+An implementation of the [Web Wide World](https://github.com/nobody-and-everybody/web-wide-world) idea.
 
 # Contributing
 
